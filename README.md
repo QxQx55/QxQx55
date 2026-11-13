@@ -2,11 +2,13 @@
 
 # WENDAYEW FKADU
 
-### Full-Stack & Mobile Developer
+### Full-Stack Developer | Web & Mobile Applications
 
-<br/>
+<p><strong>I turn ideas into reliable, user-friendly digital products.</strong></p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=F5C542&center=true&vCenter=true&width=700&lines=Building+Web+and+Mobile+Applications;MERN+Stack+%7C+Supabase;React+Native+%7C+Flutter;Always+Learning+and+Building" alt="Typing animation" />
+<p>From responsive interfaces and mobile experiences to APIs and databases, I enjoy building across the stack and improving every detail along the way.</p>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=F5C542&center=true&vCenter=true&width=700&lines=Full-Stack+Web+Development;MERN+Stack+%7C+Supabase;React+Native+%7C+Flutter;Designing%2C+Building%2C+Improving" alt="Full-stack developer, MERN, Supabase, React Native, and Flutter" />
 
 <br/><br/>
 
@@ -22,9 +24,9 @@
 
 ## 👋 About Me
 
-I’m **Wendayew Fkadu**, a developer interested in creating useful, dependable web and mobile applications. I enjoy learning across the stack—from building clear user interfaces to connecting applications with APIs and databases.
+I’m **Wendayew Fkadu**, a full-stack developer who enjoys taking an idea from the first sketch to a working application. I build responsive web experiences and mobile apps, and connect them to the APIs and databases that power them.
 
-That curiosity shapes the technologies I’m exploring and the products I want to build.
+I’m especially interested in the **MERN stack**, **React Native**, **Flutter**, and **Supabase**. I value thoughtful user experiences, maintainable code, and learning by building practical projects.
 
 ---
 
