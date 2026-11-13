@@ -1,32 +1,20 @@
 <div align="center">
 
-<img src="https://github.com/QxQx55.png" width="220" alt="Wendayew Fkadu's GitHub profile picture" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0b1220,100:1e3a8a&text=WENDAYEW%20FKADU&fontColor=f5c542&fontSize=42&fontAlignY=38&desc=FULL-STACK%20%26%20MOBILE%20DEVELOPER&descAlignY=60&descSize=15" alt="Wendayew Fkadu profile banner" />
+
+<img src="https://github.com/QxQx55.png" width="150" alt="Wendayew Fkadu's GitHub profile picture" />
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=900&color=F5C542&center=true&vCenter=true&width=800&lines=Building+Web+and+Mobile+Applications;MERN+Stack+%7C+Supabase;React+Native+%7C+Flutter;Always+Learning+and+Building" alt="Typing animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=F5C542&center=true&vCenter=true&width=700&lines=Building+Web+and+Mobile+Applications;MERN+Stack+%7C+Supabase;React+Native+%7C+Flutter;Always+Learning+and+Building" alt="Typing animation" />
 
 <br/><br/>
 
-<a href="https://github.com/QxQx55">
-  <img src="https://img.shields.io/badge/GitHub-QxQx55-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-
-<a href="https://www.linkedin.com/in/wendayew-fkadu-451483440/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-
-<a href="mailto:wen1260h@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-
-<a href="https://t.me/Wendayew">
-  <img src="https://img.shields.io/badge/Telegram-Message-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-</a>
-
-<a href="https://personal-portfolio-xuob.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-</a>
+<a href="https://personal-portfolio-xuob.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/wendayew-fkadu-451483440/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/QxQx55"><img src="https://img.shields.io/badge/GitHub-QxQx55-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="mailto:wen1260h@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://t.me/Wendayew"><img src="https://img.shields.io/badge/Telegram-Message-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
 
 </div>
 
@@ -34,20 +22,18 @@
 
 ## 👋 About Me
 
-Hi, I’m Wendayew Fkadu. I’m interested in building useful web and mobile applications and growing as a developer by learning, experimenting, and creating.
+I’m **Wendayew Fkadu**, a developer interested in creating useful, dependable web and mobile applications. I enjoy learning across the stack—from building clear user interfaces to connecting applications with APIs and databases.
 
-My interests include full-stack development, mobile apps, backend services, and database-driven products.
+That curiosity shapes the technologies I’m exploring and the kinds of products I want to build.
 
 ---
 
-## 🧰 Technology Stack
+## 🧰 Technologies I Work With
 
-### Languages
+### Programming Languages
 
 <div align="center">
-
 <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,go,dart" alt="JavaScript, TypeScript, Python, Java, C++, Go, and Dart" />
-
 </div>
 
 **JavaScript · TypeScript · Python · Java · C++ · Go · Dart**
@@ -55,9 +41,7 @@ My interests include full-stack development, mobile apps, backend services, and 
 ### Web Development
 
 <div align="center">
-
 <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" alt="React, Next.js, HTML, CSS, and Tailwind CSS" />
-
 </div>
 
 **React · Next.js · HTML · CSS · Tailwind CSS**
@@ -65,9 +49,7 @@ My interests include full-stack development, mobile apps, backend services, and 
 ### Mobile Development
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=react,flutter,dart" alt="React Native and Flutter development" />
-
+<img src="https://skillicons.dev/icons?i=react,flutter,dart" alt="React Native and Flutter" />
 </div>
 
 **React Native · Flutter · Dart**
@@ -75,106 +57,81 @@ My interests include full-stack development, mobile apps, backend services, and 
 ### Backend, MERN & Data
 
 <div align="center">
-
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,supabase,postgres,mysql,fastapi" alt="Node.js, Express, MongoDB, Supabase, PostgreSQL, MySQL, and FastAPI" />
-
 </div>
 
 **MERN:** MongoDB · Express.js · React · Node.js  
-**Also:** Supabase · PostgreSQL · MySQL · Python · FastAPI
+**Also:** Supabase · PostgreSQL · MySQL · FastAPI
 
-### Tools & Platforms
+### Tools
 
 <div align="center">
-
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel" alt="Git, GitHub, VS Code, Postman, and Vercel" />
-
 </div>
 
 ---
 
-## 🎯 Current Focus
+## 🚀 What I’m Focusing On
 
-- Building web applications with the MERN stack
-- Exploring mobile development with React Native and Flutter
-- Working with Supabase and relational databases
-- Improving API design, testing, and debugging skills
-- Learning and practicing Go
+I’m building my skills through hands-on practice, especially in:
+
+- Full-stack applications with the MERN stack
+- Mobile development with React Native and Flutter
+- Supabase, PostgreSQL, and database design
+- API development, testing, and debugging
+- Go and broader software engineering fundamentals
+
+These areas connect my interest in end-to-end product development with my goal of making applications practical and maintainable.
 
 ---
 
-## 🧭 How I Approach Development
+## 🧭 My Development Flow
 
 <div align="center">
 
-`Understand` → `Plan` → `Build` → `Test` → `Improve`
+**Understand the problem** → **Plan the solution** → **Build** → **Test** → **Improve**
 
 </div>
 
-I value clear interfaces, organized code, useful documentation, and continuous learning.
+I value clear interfaces, organized code, useful documentation, and continuous learning at every step.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
+
+Here’s a snapshot of my public GitHub activity. For the most reliable up-to-date view, visit my [GitHub profile](https://github.com/QxQx55).
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=QxQx55&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Wendayew's GitHub statistics" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QxQx55&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Most-used languages in Wendayew's public repositories" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=QxQx55&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub statistics for QxQx55" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QxQx55&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Languages in public repositories for QxQx55" />
 
 <br/><br/>
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=QxQx55&theme=tokyonight&hide_border=true" alt="Wendayew's GitHub contribution streak" />
+<img width="85%" src="https://github-readme-activity-graph.vercel.app/graph?username=QxQx55&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Contribution activity for QxQx55" />
 
 </div>
 
 ---
 
-## 📈 Contribution Activity
+## 🤝 Let’s Connect
+
+I’m always glad to connect with people who enjoy building and learning. Find me here:
 
 <div align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=QxQx55&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Wendayew's GitHub contribution activity" />
-
-</div>
-
----
-
-## 👀 Profile Activity
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=QxQx55&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" alt="Profile views" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/github/followers/QxQx55?style=for-the-badge&label=Followers" alt="GitHub followers" />
-
-<img src="https://img.shields.io/github/stars/QxQx55?style=for-the-badge&label=Stars" alt="GitHub stars" />
-
-</div>
-
----
-
-## 🌐 Find Me Online
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-QxQx55-181717?style=flat-square&logo=github)](https://github.com/QxQx55)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111827?style=flat-square&logo=vercel)](https://personal-portfolio-xuob.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Wendayew%20Fkadu-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/wendayew-fkadu-451483440/)
+[![GitHub](https://img.shields.io/badge/GitHub-QxQx55-181717?style=flat-square&logo=github)](https://github.com/QxQx55)
 [![Telegram](https://img.shields.io/badge/Telegram-%40Wendayew-26A5E4?style=flat-square&logo=telegram)](https://t.me/Wendayew)
 [![Email](https://img.shields.io/badge/Email-wen1260h%40gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:wen1260h@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111827?style=flat-square&logo=vercel)](https://personal-portfolio-xuob.vercel.app/)
+
+<br/><br/>
+
+⭐ **Thanks for visiting — always learning, building, and improving.**
 
 </div>
 
----
-
 <div align="center">
-
-### ⭐ Thanks for visiting my profile
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:1e3a8a,100:0b1220&section=footer" alt="Decorative footer" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:1e3a8a,100:0b1220&section=footer" alt="Decorative footer" />
 </div>
