@@ -26,46 +26,59 @@ That curiosity shapes the technologies I’m exploring and the products I want t
 
 ---
 
-## 🧰 Technologies I Work With
+## 🧰 Technology Stack
 
-### Programming Languages
+### 🎨 Frontend Development
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,go,dart" alt="JavaScript, TypeScript, Python, Java, C++, Go, and Dart" />
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs" alt="HTML, CSS, Tailwind CSS, JavaScript, TypeScript, React, and Next.js" />
 </div>
 
-**JavaScript · TypeScript · Python · Java · C++ · Go · Dart**
+**HTML · CSS · Tailwind CSS · JavaScript · TypeScript · React · Next.js**
 
-### Web Development
+### ⚙️ Backend Development
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" alt="React, Next.js, HTML, CSS, and Tailwind CSS" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi" alt="Node.js, Express.js, Python, and FastAPI" />
 </div>
 
-**React · Next.js · HTML · CSS · Tailwind CSS**
+**Node.js · Express.js · Python · FastAPI**
 
-### Mobile Development
+### 🗄️ Databases
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=react,flutter,dart" alt="React Native and Flutter" />
+<img src="https://skillicons.dev/icons?i=mongodb,supabase,postgres,mysql" alt="MongoDB, Supabase, PostgreSQL, and MySQL" />
+</div>
+
+**MongoDB · Supabase · PostgreSQL · MySQL**
+
+### 🔗 MERN Stack
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" alt="MongoDB, Express.js, React, and Node.js (MERN)" />
+</div>
+
+**MongoDB · Express.js · React · Node.js**
+
+### 📱 Mobile Development
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=react,flutter,dart" alt="React Native, Flutter, and Dart" />
 </div>
 
 **React Native · Flutter · Dart**
 
-### Backend, MERN & Data
+### 💻 Other Languages
 
-<div align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,supabase,postgres,mysql,fastapi" alt="Node.js, Express, MongoDB, Supabase, PostgreSQL, MySQL, and FastAPI" />
-</div>
+**Java · C++ · Go**
 
-**MERN:** MongoDB · Express.js · React · Node.js  
-**Also:** Supabase · PostgreSQL · MySQL · FastAPI
-
-### Tools
+### 🛠️ Tools & Platforms
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel" alt="Git, GitHub, VS Code, Postman, and Vercel" />
 </div>
+
+**Git · GitHub · VS Code · Postman · Vercel**
 
 ---
 
