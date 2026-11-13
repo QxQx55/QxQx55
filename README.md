@@ -1,10 +1,6 @@
 <div align="center">
 
-# WENDAYEW FKADU
-
-### Full-Stack & Mobile Developer
-
-<img src="https://github.com/QxQx55.png" width="150" alt="Wendayew Fkadu's GitHub profile picture" />
+<img src="https://raw.githubusercontent.com/QxQx55/QxQx55/main/assets/banner.jpg" width="100%" alt="Wendayew Fkadu banner" />
 
 <br/>
 
@@ -99,21 +95,72 @@ I value clear interfaces, organized code, useful documentation, and continuous l
 
 ---
 
-## 📊 GitHub Activity
-
-This decorated graph is powered by your public GitHub activity and refreshes as new work is recorded.
+## 📊 Contribution Overview
 
 <div align="center">
 
-<a href="https://github.com/QxQx55" target="_blank" rel="noopener noreferrer">
-  <img src="https://ghchart.rshah.org/409ba5/QxQx55" alt="GitHub contribution graph for QxQx55" width="100%" />
-</a>
-
-<br/>
-
-[![Live GitHub activity](https://img.shields.io/badge/Live%20GitHub%20activity-QxQx55-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/QxQx55)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=QxQx55&theme=dark" width="100%" alt="GitHub profile summary for QxQx55" />
 
 </div>
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=QxQx55&theme=dark&hide_border=true&background=0d1117&stroke=0d1117&ring=00ff99&fire=ff7b00&currStreakLabel=Current%20Streak&longStreakLabel=Longest%20Streak&date_format=M%20j%2C%20Y" alt="Contribution streak for QxQx55" />
+
+</div>
+
+---
+
+## 🧠 Engineering Mindset
+
+<div align="center">
+
+<pre><code>Real-World Problem
+    ↓
+Requirements
+    ↓
+System Design
+    ↓
+Architecture
+    ↓
+Implementation
+    ↓
+Database + APIs
+    ↓
+Testing
+    ↓
+Debugging
+    ↓
+Deployment
+    ↓
+Continuous Improvement</code></pre>
+
+</div>
+
+> Good software should be understandable, reliable, secure and adaptable.
+
+---
+
+## 🏗️ Engineering Practices
+
+I focus on more than making applications work. I aim to make systems easier to understand, maintain, test and evolve.
+
+| Engineering Area | Focus |
+| --- | --- |
+| 🏛️ Architecture | Modular design, separation of concerns, reusable components |
+| 🔌 APIs | Clear contracts, validation, error handling |
+| 🗄️ Databases | Data modeling, relationships, integrity and efficient queries |
+| 🔒 Security | Authentication, authorization, validation and secure configuration |
+| 🧪 Testing | Unit, integration and end-to-end testing where appropriate |
+| ⚙️ DevOps | Git workflows, environment configuration and deployment |
+| 🛡️ Reliability | Logging, debugging and failure handling |
+| ⚡ Performance | Efficient rendering, database access and resource usage |
+| 📝 Documentation | Clear README files, setup instructions and technical notes |
+| ♻️ Maintainability | Refactoring, consistency and dependency management |
 
 ---
 
