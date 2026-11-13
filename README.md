@@ -1,6 +1,6 @@
 <div align="center">
 
-# Wendayew Fkadu
+# WENDAYEW FKADU
 
 ### Full-Stack & Mobile Developer
 
