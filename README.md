@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0b1220,100:1e3a8a&text=WENDAYEW%20FKADU&fontColor=f5c542&fontSize=42&fontAlignY=38&desc=FULL-STACK%20%26%20MOBILE%20DEVELOPER&descAlignY=60&descSize=15" alt="Wendayew Fkadu profile banner" />
+# Wendayew Fkadu
+
+### Full-Stack & Mobile Developer
 
 <img src="https://github.com/QxQx55.png" width="150" alt="Wendayew Fkadu's GitHub profile picture" />
 
@@ -24,7 +26,7 @@
 
 I’m **Wendayew Fkadu**, a developer interested in creating useful, dependable web and mobile applications. I enjoy learning across the stack—from building clear user interfaces to connecting applications with APIs and databases.
 
-That curiosity shapes the technologies I’m exploring and the kinds of products I want to build.
+That curiosity shapes the technologies I’m exploring and the products I want to build.
 
 ---
 
@@ -71,7 +73,7 @@ That curiosity shapes the technologies I’m exploring and the kinds of products
 
 ---
 
-## 🚀 What I’m Focusing On
+## 🎯 What I’m Focusing On
 
 I’m building my skills through hands-on practice, especially in:
 
@@ -99,18 +101,16 @@ I value clear interfaces, organized code, useful documentation, and continuous l
 
 ## 📊 GitHub Activity
 
-Here’s a snapshot of my public GitHub activity. For the most reliable up-to-date view, visit my [GitHub profile](https://github.com/QxQx55).
+Third-party stats and contribution-image services can become unavailable, so I’ve removed those unreliable image cards. Your **live GitHub profile and contribution calendar** are the source of truth:
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=QxQx55&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub statistics for QxQx55" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QxQx55&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Languages in public repositories for QxQx55" />
-
-<br/><br/>
-
-<img width="85%" src="https://github-readme-activity-graph.vercel.app/graph?username=QxQx55&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Contribution activity for QxQx55" />
+[![View GitHub profile](https://img.shields.io/badge/View%20my%20GitHub%20profile-QxQx55-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/QxQx55)
+[![View repositories](https://img.shields.io/badge/Browse%20my%20repositories-Projects-238636?style=for-the-badge&logo=github&logoColor=white)](https://github.com/QxQx55?tab=repositories)
 
 </div>
+
+GitHub displays your native contribution calendar on your profile page below this README. Your language breakdown is available from the **Repositories** tab; it is calculated from repository contents, not a manually configured skill list.
 
 ---
 
@@ -130,8 +130,4 @@ I’m always glad to connect with people who enjoy building and learning. Find m
 
 ⭐ **Thanks for visiting — always learning, building, and improving.**
 
-</div>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:1e3a8a,100:0b1220&section=footer" alt="Decorative footer" />
 </div>
