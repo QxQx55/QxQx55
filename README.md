@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/QxQx55/QxQx55/main/assets/banner.jpg" width="100%" alt="Wendayew Fkadu banner" />
+# WENDAYEW FKADU
+
+### Full-Stack & Mobile Developer
 
 <br/>
 
