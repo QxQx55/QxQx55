@@ -1,8 +1,6 @@
-<!-- Replace the portfolio URL below when you have one. -->
-
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/QxQx55/QxQx55/main/assets/profile.jpg" width="420" alt="Wendayew Fkadu" />
+<img src="https://github.com/QxQx55.png" width="220" alt="Wendayew Fkadu's GitHub profile picture" />
 
 <br/>
 
@@ -26,7 +24,7 @@
   <img src="https://img.shields.io/badge/Telegram-Message-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
 </a>
 
-<a href="https://your-portfolio-url.com">
+<a href="https://personal-portfolio-xuob.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
 </a>
 
@@ -121,7 +119,7 @@ I value clear interfaces, organized code, useful documentation, and continuous l
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=QxQx55&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Wendayew's GitHub statistics" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=QxQx55&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Wendayew's GitHub statistics" />
 
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QxQx55&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Most-used languages in Wendayew's public repositories" />
 
@@ -167,6 +165,7 @@ I value clear interfaces, organized code, useful documentation, and continuous l
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Wendayew%20Fkadu-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/wendayew-fkadu-451483440/)
 [![Telegram](https://img.shields.io/badge/Telegram-%40Wendayew-26A5E4?style=flat-square&logo=telegram)](https://t.me/Wendayew)
 [![Email](https://img.shields.io/badge/Email-wen1260h%40gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:wen1260h@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111827?style=flat-square&logo=vercel)](https://personal-portfolio-xuob.vercel.app/)
 
 </div>
 
