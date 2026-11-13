@@ -101,17 +101,17 @@ I value clear interfaces, organized code, useful documentation, and continuous l
 
 ## 📊 GitHub Activity
 
-This contribution chart is generated from GitHub’s public contribution data and refreshes as GitHub records new activity. For the live source and full activity details, open my [GitHub profile](https://github.com/QxQx55).
+This decorated graph is powered by your public GitHub activity and refreshes as new work is recorded.
 
 <div align="center">
 
-<a href="https://github.com/QxQx55" title="View my live GitHub contribution activity">
-  <img src="https://ghchart.rshah.org/409ba5/QxQx55" alt="GitHub contribution activity chart for QxQx55" />
+<a href="https://github.com/QxQx55" target="_blank" rel="noopener noreferrer">
+  <img src="https://ghchart.rshah.org/409ba5/QxQx55" alt="GitHub contribution graph for QxQx55" width="100%" />
 </a>
 
 <br/>
 
-[![View GitHub activity](https://img.shields.io/badge/View%20live%20GitHub%20activity-QxQx55-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/QxQx55)
+[![Live GitHub activity](https://img.shields.io/badge/Live%20GitHub%20activity-QxQx55-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/QxQx55)
 
 </div>
 
